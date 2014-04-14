@@ -21,6 +21,11 @@
 1. Click on **Activate**.
 
 
+## Updates
+
+* Install the <a href="https://github.com/afragen/github-updater">GitHub Updater</a> plugin to your WordPress installation. This plugin was designed to simply update any GitHub hosted WordPress plugin or theme and we are using it on this project.
+
+
 ## License
 
 The "Luna Blue" Jump Start child theme is licensed under the GPL v2 or later.
