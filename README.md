@@ -1,9 +1,9 @@
 # Luna Blue
-## A Post Format Tumblelog style Jump Start child theme
+### A Post Format Tumblelog style Jump Start child theme
 
 ## Features
 
-* features will be added as the project evolves 
+* Features will be added as the project evolves 
 
 ## Planned Enhancements 
 
@@ -12,16 +12,13 @@
 
 ## Installation
 
-1. This is a child theme of the <a href="http://wpjumpstart.com/" target="_blank">Jump Start framework</a> so make sure you have a current copy of the parent theme installed already.
+1. This is a child theme of the <a href="http://wpjumpstart.com/" target="_blank">Jump Start</a> framework so make sure you have a current copy of the parent theme installed already.
 1. Naviage to the <a href="https://github.com/rumspeed/luna-blue/releases">releases page</a> in the GitHub repository and download the Source code (zip) file for the latest release.
 1. From your WordPress dashboard, navigate to the Appearance > Themes menu.
-1. Click on the *Add New* button.
-1. Click the *Upload* link.
-1. Click the *Choose File* button and now select the zip file you downloaded in step 1.
-1. Click on *Activate*.
-
-This will activate the child theme
-
+1. Click on the **Add New** button.
+1. Click the **Upload** link.
+1. Click the **Choose File** button and now select the zip file you downloaded in step 1.
+1. Click on **Activate**.
 
 
 ## License
