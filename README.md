@@ -12,7 +12,7 @@
 
 ## Installation
 
-1. This is a child theme of the <a href="http://wpjumpstart.com/" target="_blank" Jump Start framework</a> so make sure you have a current copy of the parent theme installed already.
+1. This is a child theme of the <a href="http://wpjumpstart.com/" target="_blank">Jump Start framework</a> so make sure you have a current copy of the parent theme installed already.
 1. Naviage to the <a href="https://github.com/rumspeed/luna-blue/releases">releases page</a> in the GitHub repository and download the Source code (zip) file for the latest release.
 1. From your WordPress dashboard, navigate to the Appearance > Themes menu.
 1. Click on the *Add New* button.
