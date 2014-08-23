@@ -20,3 +20,8 @@ function my_scripts() {
 	wp_register_script( 'themeblvd_theme', get_stylesheet_directory_uri() . '/assets/js/theme.js', array('jquery') );
 }
 add_action( 'wp_enqueue_scripts', 'my_scripts', 9 ); // Use any priority less than 10 to override Jump Start
+
+add_theme_support( 'post-formats', array( 'aside', 'gallery' ) ); // adding theme support for post formats
+
+
+
