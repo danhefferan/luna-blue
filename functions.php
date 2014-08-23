@@ -9,6 +9,14 @@ require_once( get_template_directory() . '/framework/themeblvd.php' );
 /* Start Child Theme
 /*-------------------------------------------------------*/
 
+
+
+// include files - these are simply to organize functions into logical areas
+include_once( 'includes/theme-functions.php' );
+
+
+
+
 /**
  * Override Jump Start's default JavaScript and 
  * re-locate it to the child theme so we can use 
